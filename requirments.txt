@@ -6,3 +6,5 @@ Vibrent
 Color
 Add video
 Dark Mode
+Images Added 
+Button Added
