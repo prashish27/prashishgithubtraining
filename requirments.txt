@@ -8,3 +8,6 @@ Add video
 Dark Mode
 Images Added 
 Button Added
+
+Payment Options
+Payment Made
