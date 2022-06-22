@@ -1,0 +1,6 @@
+This is Chat Apllication.
+Feathers:
+Emoji
+Type Options
+Vibrent
+Color
